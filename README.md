@@ -28,15 +28,23 @@ To use the project,
 * Replace the "string" with any of your tweet or any sentence
 * On the `response` section it will display whether prediction 1 or 0
 
-This is how it will look:
+**This is how it will look:**
 
-Input string:
+##### Input string:
 
 <img width="1203" alt="Screenshot 2023-06-11 at 4 03 10 PM" src="https://github.com/Moukuh/Sentiment-Analysis--FastAPI/assets/72088794/ec6ebf8b-bb3a-4394-b81e-48ea88ec475a">
 
-Response:
+
+##### Response:
 
 <img width="1203" alt="Screenshot 2023-06-11 at 4 03 32 PM" src="https://github.com/Moukuh/Sentiment-Analysis--FastAPI/assets/72088794/e07f3de4-f442-4696-9bba-04b797d558b1">
+
+
+### Metrics scores
+
+<img width="430" alt="Screenshot 2023-06-11 at 4 08 53 PM" src="https://github.com/Moukuh/Sentiment-Analysis--FastAPI/assets/72088794/088dae4f-7c2a-441d-bb01-2a1ce6d9755c">
+
+
 
 
 ### Contributing
