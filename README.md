@@ -1,5 +1,5 @@
 # Suicidal Intention Prediction
-This project predicts whether a tweet indicates suicidal intention. It uses a machine learning model(Support Vector MAchine) trained on a dataset of tweets that have been labeled as either suicidal or not suicidal.
+This project predicts whether a tweet indicates suicidal intention. It uses a machine learning model(Support Vector Classification) trained on a dataset of tweets that have been labeled as either suicidal or not suicidal.
 
 The Dataset is contains twitter contents.
 
